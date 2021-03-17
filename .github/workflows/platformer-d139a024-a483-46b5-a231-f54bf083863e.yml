@@ -1,4 +1,4 @@
-name: Platformer Generated action-beta-2 Build
+name: Platformer Generated action-beta-2 Build Action
 on:
   push:
     branches:
